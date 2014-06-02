@@ -1,5 +1,5 @@
 {
-  "name": "grunt-css-docs",
+  "name": "grunt-cssdocs",
   "description": "CSS Styleguide Generator focused on CSS Modular Architectures",
   "version": "0.0.1",
   "homepage": "https://github.com/vieron/grunt-css-docs",
