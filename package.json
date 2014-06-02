@@ -1,0 +1,45 @@
+{
+  "name": "grunt-css-docs",
+  "description": "CSS Styleguide Generator focused on CSS Modular Architectures",
+  "version": "0.0.1",
+  "homepage": "https://github.com/vieron/grunt-css-docs",
+  "author": {
+    "name": "vieron",
+    "email": "javiersanchezmarin@gmail.com",
+    "url": "http://vieron.net"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/vieron/grunt-css-docs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vieron/grunt-css-docs/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/vieron/grunt-css-docs/blob/master/LICENSE-MIT"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "^0.9.2",
+    "grunt-contrib-clean": "^0.5.0",
+    "grunt-contrib-nodeunit": "^0.3.3",
+    "grunt": "~0.4.5"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.5"
+  },
+  "keywords": [
+    "gruntplugin"
+  ],
+  "dependencies": {
+    "css-docs": "0.0.1"
+  }
+}
