@@ -1,7 +1,7 @@
 {
   "name": "grunt-cssdocs",
   "description": "CSS Styleguide Generator focused on CSS Modular Architectures",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "homepage": "https://github.com/vieron/grunt-css-docs",
   "author": {
     "name": "vieron",
@@ -40,6 +40,6 @@
     "gruntplugin"
   ],
   "dependencies": {
-    "css-docs": "0.0.2"
+    "css-docs": "0.0.3"
   }
 }
